@@ -1,0 +1,14 @@
+layout_spectrum: 0.9492195
+typography_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 0.4957035
+  lightness: 1
+  brandColors:
+    - '#4C5C5C'
+    - '#FFFFFB'
+    - '#9B999A'
+    - '#FF8853'
+    - '#FFCF78'
+  rhythmicContrast: 0.6288909
+name: 'Yes!'
