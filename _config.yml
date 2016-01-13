@@ -1,4 +1,15 @@
-layout_spectrum: 0.9492195
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 1
 color:
   saturation: 1
@@ -10,5 +21,6 @@ color:
     - '#9B999A'
     - '#FF8853'
     - '#FFCF78'
-  rhythmicContrast: 0.6288909
+  rhythmicContrast: 1
+layout_spectrum: 0.9492195
 name: 'Yes!'
